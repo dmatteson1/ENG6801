@@ -10,7 +10,9 @@
 * **Phone:** (407) 823-5596 (dept. office, messages only) 
 ### Course Description
 The Introduction to Text and Technology course is the core introductory course in the Texts and Technologies Ph.D. program. Its goal is to familiarize students with core concepts that will recur throughout the T&T program, and which form the theoretical basis and backbone of the program. In addition to engaging with theoretical content from a variety of scholars working in T&T-related fields, you will also learn applied skills this semester that will aid in our understanding and application of digital theories and methodologies. Our approach to understanding digital scholarship will be experimental and ambitious; expect to learn some basic digital literacy skills, but also expect to revise and iterate through different ideas as they evolve with your knowledge and interests. 
-### Required Materials
+
+#### Required Materials
+
 Bogost, Ian *Persuasive Games: The Expressive Power of Video Games.* Cambridge, MA: MIT Press, 2007.
 
 Bolter, J. David *Writing Space: Computers, Hypertext, and the Remediation of Print.* 2nd ed. Mahwah, NJ: Lawrence Erlbaum, 2001.
