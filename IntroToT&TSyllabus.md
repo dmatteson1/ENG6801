@@ -10,7 +10,7 @@
 * **Phone:** (407) 823-5596 (dept. office, messages only) 
 ### Course Description
 The Introduction to Text and Technology course is the core introductory course in the Texts and Technologies Ph.D. program. Its goal is to familiarize students with core concepts that will recur throughout the T&T program, and which form the theoretical basis and backbone of the program. In addition to engaging with theoretical content from a variety of scholars working in T&T-related fields, you will also learn applied skills this semester that will aid in our understanding and application of digital theories and methodologies. Our approach to understanding digital scholarship will be experimental and ambitious; expect to learn some basic digital literacy skills, but also expect to revise and iterate through different ideas as they evolve with your knowledge and interests. 
-#### Required Materials
+### Required Materials
 Bogost, Ian *Persuasive Games: The Expressive Power of Video Games.* Cambridge, MA: MIT Press, 2007.
 
 Bolter, J. David *Writing Space: Computers, Hypertext, and the Remediation of Print.* 2nd ed. Mahwah, NJ: Lawrence Erlbaum, 2001.
@@ -129,110 +129,141 @@ Through the semester students will be introduced to many conferences in this cou
 
 ## Schedule
 **Week One: Introduction** 
+
 Readings: 
 Klein, J. T. (2017). *Typologies of Interdisciplinarity (R. Frodeman, Ed.; Vol. 1).* Oxford University Press. (Available on Webcourses); 
 Willis, M. (2012). *Open Fields? The Future of Interdisciplinary Studies in the Humanities.* CultureWorks. (Available on Webcourses)
+
 Assignments:
 Introductory Discussion Post (Academic Enrollment Verification) due the Friday following our first class session
 Exam Summary Due before class on Webcourses
  
 **Week Two: Interdisciplinarity** 
+
 Readings: 
 Klein, J. T. (2015). *Interdisciplining digital humanities: Boundary work in an emerging field.*, Introduction, Chapters 1-3 (90 pages)
+
 Assignments: 
 Exam Summary Due before class on Webcourses
 
 **Week Three: Interdisciplinarity & Digital Humanities**
+
 Readings: 
 Jones, S.E. (2016).  *The Emergence of the Digital Humanities (as the Network is Everting).* In Gold, M. K., & Klein, L. F. (Eds.). (2016). *Debates in the digital humanities: 2016.* Chapter 1 (15 pages) 
 Klein, J. T. (2015). *Interdisciplining digital humanities: Boundary work in an emerging field,* Chapters 4-6 (67 pages)
+
 Assignments: 
 Exam Summary Due before class on Webcourses
 
 **Week Four: Research & Practice**
+
 Readings: 
 Burdick, A. (Ed.). (2012). *Digital_humanities, Preface,* Chapters 1-2 (64 pages)
 Posner, M. (2016).  *What’s Next: The Radical, Unrealized Potential of Digital Humanities.* 
 In Gold, M. K., & Klein, L. F. (Eds.). (2016). *Debates in the digital humanities: 2016.* Chapter 3 (10 pages)
+
 Assignments: 
 Exam Summary Due before class on Webcourses
 
 **Week Five: Computers & Hypertext**
+
 Readings:
 Bolter, J. David *Writing Space: Computers, Hypertext, and the Remediation of Print. 2nd ed.* Mahwah, NJ: Lawrence Erlbaum, 2001. Chapters 1,2,3,8,9,10 (98 pages)
+
 Assignments: 
 Exam Summary Due before class on Webcourses
 
 **Week Six: History**
+
 Readings:
 Kuhn, T. S., & Hacking, I. (2012). *The structure of scientific revolutions (Fourth edition).* The University of Chicago Press. Chapters 1-8 (91 pages)
+
 Assignments: 
 Exam Summary Due before class on Webcourses
  
 **Week Seven: History (Continued)**
+
 Readings:
 Kuhn, T. S., & Hacking, I. (2012). *The structure of scientific revolutions (Fourth edition).* The University of Chicago Press. Chapters 9-13 (80 pages)
+
 Assignments: 
 Exam Summary Due before class on Webcourses
  
 **Week Eight: Rhetoric & Composition**
+
 Readings: 
 Selber, S. A. (2004). Multiliteracies for a digital age. Preface, Chapters 1-2 (80 pages)
+
 Assignments: 
 Exam Summary Due before class on Webcourses
 Mind Map Due at 6 pm on Webcourses
  
 **Week Nine: Rhetoric & Composition (Continued)**
+
 Readings: Selber, S. A. (2004). *Multiliteracies for a digital age.* Chapters 3-4 (100 pages)
+
 Assignments: 
 Exam Summary Due before class on Webcourses
 
 **Week Ten: Digital Media**
+
 Readings: 
 Wright, W., & Bogost, I. (2007). *Persuasive games: The expressive power of videogames.* Mit Press. 2007. Chapters 1,2,8 (125 pages)
+
 Assignments: 
 Exam Summary Due before class on Webcourses
 
 **Week Eleven: Digital Media (Continued)**
+
 Readings:
 Noble, S. U. (2018). *Algorithms of oppression: How search engines reinforce racism.* nyu Press. Chapters 1,3,5,6 (108 pages)
+
 Assignments: 
 Exam Summary Due before class on Webcourses
 T&T Conference Collection Website Due at 6 pm on Webcourses
  
 **Week Twelve: Public History**
+
 Readings:
 Becker, C. (1932). Everyman His Own Historian. *The American Historical Review.* (Available on Webcourses) (17 pages)
 Brennan, S.A. Public, First. In Gold, M. K., & Klein, L. F. (Eds.). (2016). *Debates in the digital humanities: 2016.* Chapter 32 (5 pages)
 Cauvin, T. (2016). Digital Public History & Immersive Environments or Making the Past Alive.  In *Public History: A Textbook of Practice.* (Available on Webcourses) (30 pages)
 Hsu, W.F. (2016). Lessons on public humanities from the civic sphere.  In Gold, M. K., & Klein, L. F. (Eds.). (2016). *Debates in the digital humanities: 2016.*  Chapter 24 (7 pages)
 National Council on the Public Humanities. “How do we define public humanities?” https://ncph.org/what-is-public-history/about-the-field/#0
+
 Assignments: 
 Exam Summary Due before class on Webcourses
 
 **Week Thirteen: Scientific & Technical Communication** 
+
 Readings:
 Applen, J. D., & Stephens, S. H. (2018). Digital humanities, middleware, and user experience design for public health applications. *Communication Design Quarterly Review.* (Available on Webcourses) (10 pages)
 Jones, Natasha N., Kristen R. Moore, and Rebecca Walton. (2016). Disrupting the Past to Disrupt the Future: An Antenarrative of Technical Communication. *Technical Communication Quarterly.* (Available on Webcourses) (18 pages)
 Vie, S. (2017). Training online technical communication educators to teach with social media: Best practices and professional recommendations. *Technical Communication Quarterly.* (Available on Webcourses) (15 pages)
+
 Assignments: 
 Exam Summary Due before class on Webcourses
 
 **Week Fourteen: Editing, Publishing, & Interdisciplinary Curation**
+
 Readings:
 Burdick, A. (Ed.). (2012). *Digital_humanities,* Preface, Chapters 3,4 (55 pages)
 Watson, K. (2014). Before we were us, we were them: Curating controversy. *Journal of Museum Education.* (11 pages)
 Mauer, B. J. (2014). Rigorous infidelity: whole text sampling in the curatorial work of Henri Langlois, Dewey Phillips, and Jean-François Lyotard. (10 pages)
+
 Assignments: 
 Exam Summary Due before class on Webcourses
 
 **Week Fifteen: Concluding**
+
 Readings:
 In Gold, M. K., & Klein, L. F. (Eds.). (2016). *Debates in the digital humanities: 2016.* Chapters 9-12, 20-22 (65 pages)
+
 Assignments: 
 Exam Summary Due before class on Webcourses
 Twinery Literature Review Due at 6 pm on Webcourses
 
 **Week Sixteen**
+
 Assignments: Mock Comprehensive Exam Due at 6 pm on Webcourses
 
